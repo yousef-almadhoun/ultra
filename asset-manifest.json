@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yousef-almadhoun/ultra/static/css/main.98446af3.chunk.css",
+    "main.js": "/yousef-almadhoun/ultra/static/js/main.a84ce883.chunk.js",
+    "main.js.map": "/yousef-almadhoun/ultra/static/js/main.a84ce883.chunk.js.map",
+    "runtime-main.js": "/yousef-almadhoun/ultra/static/js/runtime-main.ddd01d28.js",
+    "runtime-main.js.map": "/yousef-almadhoun/ultra/static/js/runtime-main.ddd01d28.js.map",
+    "static/js/2.b22fa14e.chunk.js": "/yousef-almadhoun/ultra/static/js/2.b22fa14e.chunk.js",
+    "static/js/2.b22fa14e.chunk.js.map": "/yousef-almadhoun/ultra/static/js/2.b22fa14e.chunk.js.map",
+    "index.html": "/yousef-almadhoun/ultra/index.html",
+    "precache-manifest.8ca1dc9210e342071be9aa2fd1bfbcb2.js": "/yousef-almadhoun/ultra/precache-manifest.8ca1dc9210e342071be9aa2fd1bfbcb2.js",
+    "service-worker.js": "/yousef-almadhoun/ultra/service-worker.js",
+    "static/css/main.98446af3.chunk.css.map": "/yousef-almadhoun/ultra/static/css/main.98446af3.chunk.css.map",
+    "static/js/2.b22fa14e.chunk.js.LICENSE.txt": "/yousef-almadhoun/ultra/static/js/2.b22fa14e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ddd01d28.js",
+    "static/js/2.b22fa14e.chunk.js",
+    "static/css/main.98446af3.chunk.css",
+    "static/js/main.a84ce883.chunk.js"
+  ]
+}
